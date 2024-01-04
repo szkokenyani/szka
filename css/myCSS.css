@@ -1,0 +1,201 @@
+/* egyedi betűtípus */
+@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz");
+@import url("https://fonts.googleapis.com/css?family=Dekko");
+
+/* kitöltendő definíciók */
+
+.backgroundFooldal {
+  background-image: url("../media/Background.jpg");
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.rejtett {
+  position: absolute;
+  left: -9999px;
+}
+
+h1 {
+  color: #524439;  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: #524439;  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h3 {
+  color: #524439;  
+  margin-top: -10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4 {
+  color: #524439;  
+  margin-top: -10px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5 {
+  color: #524439;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h6 {
+  color: white; 
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {  
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+}
+
+.nav-item {
+  color: #524439;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.coverDiv {
+  background-color: #524439;
+}
+
+.coverLogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-bottom:-15px;
+}
+
+.footerDiv {
+  background-color: #af917a;
+  margin-bottom: -20px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.footerDiv2 {
+  background-color: #524439;
+  margin-top: -10px;
+  padding: 10px;
+}
+
+.coverDiv > img{
+  width: 70%;
+  height: 70%;
+}
+
+figure > img{
+  width:50%;
+  min-height:50%;
+}
+
+aside > img {
+  width: 30%;
+  height: 30%;
+}
+
+.radioLabel{
+  margin-left: -12px;
+}
+
+.dtCoverPic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 31%;
+  margin-bottom: -15px;
+}
+
+.szotar-link {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.idezet {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: #d2b8a4;
+  padding: 30px;
+  font-size: larger;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #d2b8a4;
+}
+
+tr:hover {background-color: #d2b8a4;}
+
+.nemetFeladatok {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: #524439;
+  border-style:dashed;
+}
+
+.coverPicEtika {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 51%;
+  padding: 15px;
+  margin-bottom: -15px;
+}
+
+.coverPicEtikaModal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  padding: 15px;
+  margin-bottom: -15px;
+}
+
+.etika {
+  margin: 30px;
+}
+
+.pictureEtika {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.coverDK {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:33%;
+  height:33%;
+  padding: 10px;
+  margin-bottom: -15px;
+}
+
+.tevhitek {
+  margin: 20px;
+  text-align: justify;
+}
+
+a:visited {
+  color: #c9a1ad;
+  background-color: transparent;
+  text-decoration: none;
+}
+
